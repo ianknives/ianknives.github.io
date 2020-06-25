@@ -3,8 +3,10 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Мир состоящий из тумана, из нечетких силуэтов. Деревья, вывески, огни.
+Хочется сидеть и писать поэзию, но что-то все время отвлекает. Очередной твит. Мысли о будущем. Сообщение в чатике.
+Куда бы податься дальше? Думаешь себе. А поеду-ка я в Торонто. Там наверное жизнь-то кипит.
+А почему туда - не знаешь сам, просто вот появилась в голове, и не отпускает мысль поехать в Торонто.
+Наверное причина в одиночестве, оттого и возникают всякие непонятные мысли.
+Идешь на улицу за йогуртом в туман. 13 - кнопка в автомате.
+Пробегают еще какие-то мысли в голове. Но уже ничего не получается поймать. Лучше и правда пойти за йогуртом.
